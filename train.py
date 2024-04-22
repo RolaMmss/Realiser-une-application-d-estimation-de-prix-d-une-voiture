@@ -1,3 +1,6 @@
+# Ce code entraîne un modèle d'apprentissage automatique pour prédire les prix des voitures en utilisant un régresseur de Random Forest, 
+# puis enregistre le modèle entraîné dans un espace de travail Azure Machine Learning. 
+
 import pandas as pd
 import numpy as np
 from sklearn.model_selection import train_test_split
